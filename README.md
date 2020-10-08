@@ -1,4 +1,4 @@
-![image](https://cdn.jsdelivr.net/gh/Smart-Chou/)
+![image](https://cdn.jsdelivr.net/gh/Smart-Chou/wp-pt@0.1/wp-pt.png)
 # wp-pt
 
 blog.zcily.life
